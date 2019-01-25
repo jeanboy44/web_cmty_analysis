@@ -107,5 +107,5 @@ venv.bak/
 references/
 data/
 Archive/
-.model
-.npy
+*.model
+*.npy
